@@ -252,7 +252,7 @@ These cover the remaining gaps from your note file (Audio/Lossless, Downloaders/
 * **[Bypass Paywalls Clean](https://github.com/bpc-clone)** — Browser extension configured to neutralize client-side meter scripts and hard paywalls across thousands of international publications.
 * **[12ft Ladder](https://12ft.io/)** — Quick-proxy system designed to bypass paywall banners and display raw cached search-engine indexes of articles.
 * **[Unpaywall](https://unpaywall.org/)** — Open database tracking over 50 million free, legal scholarly articles across thousands of university institutional repositories.
-* **[Spun.io](https://spun.io/) / [Txtify.it](https://txtify.it/)** — Strips dynamic JavaScript, style sheets, trackers, and paywall layers, serving raw distraction-free plaintext.
+* **[Spun.io](https://spun.io/) / [Txtify.it](https://txtify.it/)** — Strips dynamic JavaScript, style sheets, trackers, and paywall layers, serving raw distraction-free plaintext
 
 ---
 
