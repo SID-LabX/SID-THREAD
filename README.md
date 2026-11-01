@@ -1,5 +1,15 @@
 # **THE-SID-THREAD**
 
+---
+
+## Contributing
+We welcome contributions! Please review [CONTRIBUTING.md](CONTRIBUTING.md) and note that all contributors must sign our [Contributor License Agreement (CLA)](CLA.md) before pull requests can be merged.
+
+## License
+This project is licensed under the terms of the [PROPRIETARY SOURCE-AVAILABLE LICENSE](LICENSE).
+
+---
+
 ### _The Definitive Universal Mega-Index & Free Knowledge Vault_
 
 > _"Information wants to be free. The tools to access, archive, and master it should be too."_
