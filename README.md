@@ -23,6 +23,8 @@ Every entry has been audited, clean-formatted, and organized for high-speed refe
 ## 🧭 Navigation Matrix
 
 - [**THE-SID-THREAD**](#the-sid-thread)
+  - [Contributing](#contributing)
+  - [License](#license)
     - [_The Definitive Universal Mega-Index \& Free Knowledge Vault_](#the-definitive-universal-mega-index--free-knowledge-vault)
   - [🧭 Navigation Matrix](#-navigation-matrix)
   - [⭐ Core Master Indexes](#-core-master-indexes)
@@ -37,12 +39,12 @@ Every entry has been audited, clean-formatted, and organized for high-speed refe
   - [📱 Mobile Hub: Android, iOS \& Sideloading](#-mobile-hub-android-ios--sideloading)
   - [💻 Developer Platforms, AI Tools \& Free APIs](#-developer-platforms-ai-tools--free-apis)
   - [🗄️ Archival Ops, Data Hoarding \& Preservation](#️-archival-ops-data-hoarding--preservation)
+    - [🎵 Lossless Audio, Streaming \& Sound Archives](#-lossless-audio-streaming--sound-archives)
+    - [⚡ Scrapers, Media Extractors \& Download Accelerators](#-scrapers-media-extractors--download-accelerators)
+    - [🔓 Paywall Neutralizers, Web Unblockers \& Document Scrapers](#-paywall-neutralizers-web-unblockers--document-scrapers)
+    - [💳 Transaction Privacy, Financial Masking \& Crypto OpSec](#-transaction-privacy-financial-masking--crypto-opsec)
+    - [🔍 OSINT, Threat Intel \& Digital Investigation](#-osint-threat-intel--digital-investigation)
   - [⚡ Operational Protocols \& Survival Rules](#-operational-protocols--survival-rules)
-  - [🎵 Lossless Audio, Streaming & Sound Archives](#-lossless-audio-streaming--sound-archives)
-  - [⚡ Scrapers, Media Extractors & Download Accelerators](#-scrapers-media-extractors--download-accelerators)
-  - [🔓 Paywall Neutralizers, Web Unblockers & Document Scrapers](#-paywall-neutralizers-web-unblockers--document-scrapers)
-  - [💳 Transaction Privacy, Financial Masking & Crypto OpSec](#-transaction-privacy-financial-masking--crypto-opsec)
-  - [🔍 OSINT, Threat Intel & Digital Investigation](#-osint-threat-intel--digital-investigation)
 ---
 
 ## ⭐ Core Master Indexes
@@ -201,24 +203,6 @@ _Hardware architectures, bitrot prevention, and long-term data curation._
 - **[Awesome Data Hoarding](https://github.com/simon987/awesome-datahoarding)** — Software suites, command-line flags, and scripts for web preservation and bulk transfers.
 - **[End of Term Web Archive](https://eotarchive.org/)** — Collaborative preservation initiative capturing historical snapshots of federal and institutional digital records.
 - **[Wayback Machine (Archive.org)](https://web.archive.org/)** — Search billions of historical web snapshots to recover deleted records and broken links.
-
-
-Here are the missing power-user categories to slot in right after **Archival Ops, Data Hoarding & Preservation** (and just before the **Operational Protocols**). 
-
-These cover the remaining gaps from your note file (Audio/Lossless, Downloaders/Scrapers, Paywall & Research Unblockers, Financial Privacy, and OSINT/Investigation):
-
----
-
-### 🧭 Navigation Matrix Additions
-*(Add these lines into your Navigation Matrix table of contents at the top)*
-
-```markdown
-- [🎵 Lossless Audio, Streaming & Sound Archives](#-lossless-audio-streaming--sound-archives)
-- [⚡ Scrapers, Media Extractors & Download Accelerators](#-scrapers-media-extractors--download-accelerators)
-- [🔓 Paywall Neutralizers, Web Unblockers & Document Scrapers](#-paywall-neutralizers-web-unblockers--document-scrapers)
-- [💳 Transaction Privacy, Financial Masking & Crypto OpSec](#-transaction-privacy-financial-masking--crypto-opsec)
-- [🔍 OSINT, Threat Intel & Digital Investigation](#-osint-threat-intel--digital-investigation)
-```
 
 ---
 
